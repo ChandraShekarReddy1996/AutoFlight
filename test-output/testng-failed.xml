@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [Sample Suite]" guice-stage="DEVELOPMENT">
+  <test name="Unit Level Test Cases(failed)">
+    <classes>
+      <class name="com.flight_Review.reviewClass">
+        <methods>
+          <include name="reviewFlight"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.flight_Review.reviewClass -->
+    </classes>
+  </test> <!-- Unit Level Test Cases(failed) -->
+</suite> <!-- Failed suite [Sample Suite] -->

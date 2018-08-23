@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-08-23T08:36:00Z" name="Sample Suite" finished-at="2018-08-23T08:36:43Z" duration-ms="43232">
+    <groups>
+    </groups>
+    <test started-at="2018-08-23T08:36:00Z" name="Unit Level Test Cases" finished-at="2018-08-23T08:36:43Z" duration-ms="43232">
+      <class name="com.flight_Review.reviewClass">
+        <test-method signature="reviewFlight()[pri:0, instance:com.flight_Review.reviewClass@3e96bacf]" started-at="2018-08-23T14:06:38Z" name="reviewFlight" finished-at="2018-08-23T14:06:43Z" duration-ms="5229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reviewFlight -->
+      </class> <!-- com.flight_Review.reviewClass -->
+      <class name="com.flight_Selection.flightClass">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.flight_Selection.flightClass@3571b748]" started-at="2018-08-23T14:05:56Z" name="init" finished-at="2018-08-23T14:06:00Z" duration-ms="3625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="flight()[pri:0, instance:com.flight_Selection.flightClass@3571b748]" started-at="2018-08-23T14:06:00Z" name="flight" finished-at="2018-08-23T14:06:38Z" duration-ms="37916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flight -->
+      </class> <!-- com.flight_Selection.flightClass -->
+    </test> <!-- Unit Level Test Cases -->
+  </suite> <!-- Sample Suite -->
+</testng-results>

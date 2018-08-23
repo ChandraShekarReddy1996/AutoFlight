@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sample Suite" verbose="1">
+	<test name="Unit Level Test Cases">
+		<classes>
+			<class name="com.flight_Selection.flightClass">
+			</class>
+			<class name="com.flight_Review.reviewClass">
+			</class>
+		</classes>
+	</test>
+</suite>
